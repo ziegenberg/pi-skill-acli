@@ -1,0 +1,30 @@
+{
+  "name": "pi-skill-acli",
+  "version": "1.0.0",
+  "description": "Pi skill for interacting with Atlassian Cloud (Jira & Confluence) via the acli CLI",
+  "keywords": [
+    "pi-package",
+    "atlassian",
+    "acli",
+    "jira",
+    "confluence",
+    "skill"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Daniel Ziegenberg",
+    "email": "daniel@ziegenberg.at"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziegenberg/pi-skill-acli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ziegenberg/pi-skill-acli/issues"
+  },
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  }
+}

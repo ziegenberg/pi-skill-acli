@@ -1,7 +1,8 @@
 {
   "name": "pi-skill-acli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pi skill for interacting with Atlassian Cloud (Jira & Confluence) via the acli CLI",
+  "readme": "README.md",
   "keywords": [
     "pi-package",
     "atlassian",
